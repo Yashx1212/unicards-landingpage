@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unicards-landingpage/static/css/main.f2729a4b.css",
+    "main.js": "/unicards-landingpage/static/js/main.d66e3b7d.js",
+    "static/js/453.8b25b089.chunk.js": "/unicards-landingpage/static/js/453.8b25b089.chunk.js",
+    "static/media/one_percent_cashback.png": "/unicards-landingpage/static/media/one_percent_cashback.da65c337081dfdbfb013.png",
+    "static/media/five_x_rewards.png": "/unicards-landingpage/static/media/five_x_rewards.e4ecda231b6c8bb6d232.png",
+    "static/media/forex_globe.png": "/unicards-landingpage/static/media/forex_globe.ce7251618b44f3d32470.png",
+    "static/media/nx_wave_hero.png": "/unicards-landingpage/static/media/nx_wave_hero.003d0673f38ec15432b2.png",
+    "static/media/logo.svg": "/unicards-landingpage/static/media/logo.03ac2e24db99bbfaeb9b3bfcfc9dc24c.svg",
+    "index.html": "/unicards-landingpage/index.html",
+    "static/media/down_arrow.svg": "/unicards-landingpage/static/media/down_arrow.38cbd8d85f15e52b0903aac5aa46c1fc.svg",
+    "static/media/right_arrow.svg": "/unicards-landingpage/static/media/right_arrow.9045b520ab56996940adb2fccf00a39a.svg",
+    "static/media/star.svg": "/unicards-landingpage/static/media/star.90f8692385ed5aa9ec85bb99fda0b531.svg",
+    "main.f2729a4b.css.map": "/unicards-landingpage/static/css/main.f2729a4b.css.map",
+    "main.d66e3b7d.js.map": "/unicards-landingpage/static/js/main.d66e3b7d.js.map",
+    "453.8b25b089.chunk.js.map": "/unicards-landingpage/static/js/453.8b25b089.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2729a4b.css",
+    "static/js/main.d66e3b7d.js"
+  ]
+}
